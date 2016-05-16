@@ -190,7 +190,10 @@
 	  } 
 	  #archives > .arti-with-pic{
 	    width: 50%;
-	    padding: 0 5px 0 5px;
+            padding-top: 0;
+            padding-right: 5px;
+            padding-bottom: 0;
+            padding-left: 5px;
 	    margin: 20px 0 20px 0;
 	  }
 	  #archives > .arti-with-pic > .img > img{
@@ -363,7 +366,10 @@
 	  } 
 	  #archives > .arti-with-pic{
 	    width: 25%;
-	    padding:0 10px 0 10px;
+            padding-top: 0;
+            padding-right: 10px;
+            padding-bottom: 0;
+            padding-left: 10px;
 	  }
 	  #archives > .arti-with-pic > .img > img{
 	    max-width: 100%;
