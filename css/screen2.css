@@ -66,9 +66,6 @@
 	    display: inline-block;
 	    font-size: 1.4rem;
 	  }
-	  #nav-info > nav > ul > li:not(:last-of-type){
-	    padding-right: 10px;
-	  }
 
 	  #nav-info > aside{
 	    display: none;
@@ -142,9 +139,6 @@
 	  #nav-info > nav > ul > li{
 	    display: inline-block;
 	    font-size: 1.7rem;
-	  }
-	  #nav-info > nav > ul > li:not(:last-of-type){
-	    padding-right: 20px;
 	  }
 
 	  #nav-info > aside{
@@ -256,7 +250,6 @@
 	    font-size: 2.2rem;
 	    display: table;
 	    float: right;
-	    clear: right;
 	  }
 
 	  #nd-nav > .option{
@@ -341,7 +334,6 @@
 	    font-size: 2.2rem;
 	    display: table;
 	    float: right;
-	    clear: right;
 	  }
 
 	  #main {
